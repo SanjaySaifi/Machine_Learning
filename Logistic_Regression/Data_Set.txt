@@ -1,0 +1,1 @@
+ download the datset from kaggle: https://www.kaggle.com/c/titanic
